@@ -13,8 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-tiwary-8548382b9/) 
 <p align="left">
 <a href="https://www.linkedin.com/in/ananya-tiwary-8548382b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-tiwary-8548382b9" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@malishka_23bai11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@malishka_23bai11" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Malishka_Paradkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@Malishka_Paradkar" height="30" width="40" /></a>
+
+
 </p>
 
 
