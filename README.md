@@ -24,10 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AnanyaT1804&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaT1804&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaT1804&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<h2 align="center">Leetcode Info<h2>
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Malishka_Paradkar?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
 ### 🏆 GitHub Trophies 
