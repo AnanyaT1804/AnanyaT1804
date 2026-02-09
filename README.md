@@ -26,8 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaT1804&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
-### 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=Malishka-Paradkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
